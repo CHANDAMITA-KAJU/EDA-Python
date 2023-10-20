@@ -6,10 +6,15 @@ This case study aims to give us an idea of applying EDA in a real business scena
 The aim of this project is to answer the following questions:
 
 What would be your first step? List different EDA you would like to do with the data before you get started.
+
 How are you going to handle missing values? Ideate and list them.
+
 Before getting into modeling, apart from points a. and b., do you want to do anything else with the data to understand default behavior?
+
 The default labeling is based on customers who did not pay 3 installments continuously. Do you want to rethink about this labelling strategy for the target? How will you validate the labelling strategy is correct?
+
 How are you going to handle outliers, numerical columns and categorical columns
+
 Do you want to include the entire 1000 features?
 
 
