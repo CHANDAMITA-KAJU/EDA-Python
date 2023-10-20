@@ -50,9 +50,15 @@ Most of the cancelled or refused prev application , 80-90% of them are repayers 
 Precautionss-
 
 -people are mostly unacompannied
+
 -Lower secondary
+
 -Unmarried people
+
 -Rented apartment has been the highest defaulter percentage
--Low skill labourers, drivers are the highest defaulters.
+
+-Low skill labourers, drivers are the highest defaulters
+
 -Transport type 3 is the highest defaulter
+
 -Offers which were unused prev now have maximum number of defaulters despite the high income band customers
